@@ -20,7 +20,16 @@ soap-note/
 
 To use this skill, ensure your AI agent or development environment supports the [Agent Skills](https://agentskills.io) specification (e.g., Claude Code, VS Code Agent extensions, or custom clinical assistants).
 
-### Loading the Skill
+### Upload skills to CLAUDE web interface
+
+1. **Download** a skill zip file from release
+2. **Go to customize tab** in Cluade web interface
+3. **Click on Skills tab**
+4. **Click add skills**
+5. **Click Create skill**
+6. **Upload skill** with the zip file
+
+### Loading the Skill for Local AI application
 
 1. **Clone this repository** into your local agent skills path or your project directory:
    ```bash
@@ -31,11 +40,6 @@ To use this skill, ensure your AI agent or development environment supports the 
    - For CLI-based agents, pass the skill directory in your system configuration or project environment.
    - The agent will automatically detect and parse the `SKILL.md` frontmatter at startup to register the `soap-note` skill trigger.
 
-3. **Verify the installation**:
-   To validate that the `SKILL.md` frontmatter and formatting are correct, you can use the reference library:
-   ```bash
-   npx skills-ref validate ./soap-note
-   ```
 
 ---
 
