@@ -22,7 +22,7 @@ To use this skill, ensure your AI agent or development environment supports the 
 
 ### Upload skills to CLAUDE web interface
 
-1. **Download** a skill zip file from release
+1. **Download** [a skill zip file](https://github.com/PharAgents/soap-note/archive/refs/tags/v1.0.0.zip) from release
 2. **Go to customize tab** in Cluade web interface
 3. **Click on Skills tab**
 4. **Click add skills**
