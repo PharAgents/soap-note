@@ -4,8 +4,8 @@ Standardized clinical pharmacy agent skill designed to assist pharmacists and he
 
 This repository implements the **Agent Skills Specification** (fully defined in [SKILL.md](SKILL.md)) and integrates standard clinical pharmacy practices in Thailand.
 
-[!WARNING]
-:warning: Please do not breach patient personal data into AI platform
+> [!WARNING]
+> ⚠️ Please do not breach patient personal data into AI platform
 
 ---
 
