@@ -2,7 +2,7 @@
 
 Standardized clinical pharmacy agent skill designed to assist pharmacists and healthcare AI agents in drafting, evaluating, and reviewing structured Subjective, Objective, Assessment, and Plan (SOAP) notes. 
 
-This repository implements the **Agent Skills Specification** (fully defined in [SKILL.md](SKILL.md)) and integrates standard clinical pharmacy practices in Thailand, utilizing the **IESAC** (Indication, Efficacy, Safety, Adherence, Cost) evaluation framework and **Strand's Drug Therapy Problem (DTP)** methodology.
+This repository implements the **Agent Skills Specification** (fully defined in [SKILL.md](SKILL.md)) and integrates standard clinical pharmacy practices in Thailand.
 
 ---
 

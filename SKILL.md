@@ -3,7 +3,7 @@ name: soap-note
 description: Standardized clinical pharmacist SOAP note generator and drug therapy assessment tool. Assists pharmacists in documenting, evaluating, and reviewing patient drug therapy using the IESAC framework and the 7-category Drug Therapy Problem (DTP) methodology based on clinical guidelines.
 license: MIT
 metadata:
-  author: Antigravity
+  author: Natapol Pornputtapong
   version: 1.0.0
   domain: Clinical Pharmacy / Medication Therapy Management (MTM)
   standards: IESAC Framework, Strand's DTP Classification, ADA Guidelines, ACC/AHA Guidelines
