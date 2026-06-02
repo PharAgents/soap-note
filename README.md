@@ -20,7 +20,7 @@ soap-note/
 
 To use this skill, ensure your AI agent or development environment supports the [Agent Skills](https://agentskills.io) specification (e.g., Claude Code, VS Code Agent extensions, or custom clinical assistants).
 
-### Upload skills to CLAUDE web interface
+### Upload skills to CLAUDE web interface ([link](https://support.claude.com/en/articles/12512180-use-skills-in-claude))
 
 1. **Download** [a skill zip file](https://github.com/PharAgents/soap-note/archive/refs/tags/v1.0.0.zip) from release
 2. **Go to customize tab** in Cluade web interface
